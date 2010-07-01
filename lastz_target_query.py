@@ -37,7 +37,7 @@ ldir = "./log_lastz_tammar_mono"
 
 # Other parameters.
 prog = "lastz"
-sub = "/home/directory/bsub_scripts/sub.sh"
+sub = "/home/directory/bsub_scripts/sub_lastz.sh"
 lastz = "/home/directory/opt/lastz-distrib/bin/lastz"
 
 # Make script and log directories.
